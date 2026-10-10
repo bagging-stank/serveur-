@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="primary">#00f2ff</color>
+    <color name="primary_dark">#00b8c4</color>
+    <color name="background_dark">#050505</color>
+    <color name="bg_dark">#050505</color>
+    <color name="surface_dark">#0f0f19</color>
+    <color name="neon_cyan">#00f2ff</color>
+    <color name="neon_green">#39ff14</color>
+    <color name="neon_yellow">#ffff00</color>
+    <color name="neon_red">#ff3131</color>
+    <color name="text_primary">#e0e0e0</color>
+    <color name="text_secondary">#888888</color>
+
+    <!-- Decoy Colors (Light by default) -->
+    <color name="decoy_background">#FFFFFF</color>
+    <color name="decoy_text_main">#212121</color>
+    <color name="decoy_text_sub">#757575</color>
+    <color name="decoy_icon_tint">#616161</color>
+    <color name="blue_sky">#2196F3</color>
+    <color name="system_gray">#8E8E93</color>
+    <color name="update_gray">#212121</color>
+</resources>
